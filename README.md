@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Web trinity and Php.
 - 📫 How to reach me: https://www.linkedin.com/in/wareez-busari/
 - 😄 Pronouns: He/His.
-- ⚡ Fun fact: "The first programmer was said to be the daughter of a mad poet"
+- ⚡ Fun fact: "All code is compromise"
 

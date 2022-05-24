@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on developing responsive web app.
-- 🌱 I’m currently learning Vue.js3 and Laravel
+- 🌱 I’m  Vue.js3 and Laravel enthusiast.
 - 👯 I’m looking to collaborate on an engaging project.
 - 🤔 I’m looking for help with web security.
 - 💬 Ask me about Web trinity and Php.
